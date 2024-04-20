@@ -20,3 +20,7 @@ while run:
         
     pygame.display.flip()
 pygame.quit()
+
+1
+2
+3
